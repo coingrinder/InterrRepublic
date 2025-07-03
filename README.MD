@@ -21,7 +21,7 @@ This archive includes the core documents establishing the Internet Republic:
 
 **President:** Dillon Christopher Kreider  
 **Blockchain ID:** IR-GENESIS-00001  
-**Contact:** diplomatic@internetrepublic.global
+**Contact:** dillon.kreider@interrepublic.org
 
 ## 🌍 Why This Matters
 
